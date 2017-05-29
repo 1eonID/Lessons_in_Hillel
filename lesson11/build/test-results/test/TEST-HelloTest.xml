@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HelloTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-29T16:28:18" hostname="Class2-4" time="0.003">
+  <properties/>
+  <testcase name="testDevtoString" classname="HelloTest" time="0.002"/>
+  <testcase name="testNothing" classname="HelloTest" time="0.001"/>
+  <system-out><![CDATA[testing nothing
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
